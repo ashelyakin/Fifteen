@@ -1,0 +1,6 @@
+﻿  lab3.cpp
+C:\Users\andre\source\repos\IS lab3\IS lab3\lab3.h(19,44): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\andre\source\repos\IS lab3\IS lab3\lab3.h(19,66): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\andre\source\repos\IS lab3\IS lab3\lab3.h(22,37): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\andre\source\repos\IS lab3\IS lab3\lab3.h(22,60): warning C4227:  устаревший элемент: пропуск квалификаторов для ссылки
+  IS lab3.vcxproj -> C:\Users\andre\source\repos\IS lab3\Debug\IS lab3.exe
